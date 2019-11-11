@@ -1,0 +1,14 @@
+{
+  "name": "cobanginx",
+  "version": "1.0.0",
+  "description": "aplikasi untuk upload ke nginx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "natassja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
